@@ -4,3 +4,4 @@
 *.zip
 .env
 secrets*
+.DS_Store
