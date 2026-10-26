@@ -1,0 +1,6 @@
+*.safetensors
+*.pt
+*.bin
+*.zip
+.env
+secrets*
